@@ -7,5 +7,6 @@ public class test {
         int sum = a + b;
         
         System.out.println("Tong cua " + a + " va " + b + " la: " + sum);
+        System.out.println("nice");
     }
 }
