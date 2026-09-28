@@ -4,9 +4,9 @@ public class test {
         
         int a = 5;
         int b = 10;
-        int sum = a + b;
+        int differ = a - b;
         
-        System.out.println("Tong cua " + a + " va " + b + " la: " + sum);
+        System.out.println("Tong cua " + a + " va " + b + " la: " + differ);
         System.out.println("nice");
     }
 }
